@@ -1,4 +1,6 @@
-# This is a fork to try and bring back NaK. Still working on it if this message is up
+# This is a fork to try and bring back NaK. 
+
+[Kalium](https://github.com/bobbycomet/Kalium) is the implementation I created for MO2 installs. Everything else below belongs to SulfurNitride. Kalium and any Sulfur project are not in partnership or any such agreements that would suggest a collaboration.
 
 BIG NOTE! NAK has been replaced by my linux port of MO2 called [Fluorine Manager](https://github.com/SulfurNitride/Fluorine-Manager). This repo will now be archived.
 
